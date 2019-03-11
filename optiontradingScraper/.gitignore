@@ -1,0 +1,8 @@
+/.classpath
+/.project
+/*.xlsx
+/.lock
+/bin
+/build
+/.gradle/
+/.settings
